@@ -1,0 +1,224 @@
+@media (max-width: 1199px){
+
+	.header-area{
+		height: 885px;
+	}
+
+	.review-text-1{
+		margin-bottom:10px;
+		margin-top:30px;
+	}
+
+	.review-text-2{
+		margin-top: 30px;
+	}
+
+	.sub-e-btn{
+	top: 17%;
+	}
+
+	.message-info .row{
+		margin-right: 0px;
+	}
+}
+
+@media (max-width: 991px){
+
+	.header-area{
+		height: 885px;
+	}
+
+	.review-text-1{
+		width: 315px;
+		height: 165px;
+		margin-bottom:10px;
+		margin-top:0px;
+		margin-left: 20px;
+	}
+	.review-text-1 h4{
+		font-size: 20px;
+	}
+	.review-text-1 p{
+		font-size: 12px;
+	}
+
+	.review-text-2{
+		width: 315px;
+		height: 165px;
+		margin-top: 10px;
+		margin-bottom:10px;
+	}
+	.review-text-2 h4{
+		font-size: 20px;
+	}
+	.review-text-2 p{
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 767px){
+
+	.header-area{
+		height: 900px;
+	}
+
+	.header-menu{
+		display: none;
+	}
+
+	.header-menu-icon{
+		display: flex;
+	}
+
+	.review-text-1{
+		width: 415px;
+		height: 185px;
+		margin: 20px ;
+	}
+	.review-text-1 h4{
+		font-size: 27px;
+	}
+	.review-text-1 p{
+		font-size: 14px;
+	}
+
+	.review-text-2{
+		width: 415px;
+		height: 225px;
+		margin-top: 10px;
+		margin-bottom:10px;
+		margin-left: 20px;
+	}
+	.review-text-2 h4{
+		font-size: 27px;
+	}
+	.review-text-2 p{
+		font-size: 14px;
+	}
+
+
+	.sub-e-btn{
+		left: 50%;
+	}
+
+
+
+	.footer-logo:before{
+		display: none;
+	}
+}
+
+@media (max-width: 656px){
+	.msg-name input , .msg-email input , .msg-sub input{
+		width: 180px;
+	}
+
+	.msg-message{
+		width: 180px;
+	}
+}
+
+@media (max-width: 575px){
+
+	.header-body-text h2{
+		font-size: 66px;
+	}
+
+	.header-area{
+		height: 700px;
+	}
+
+
+	.message-area{
+	width: 100%;
+	height: 500px;
+	display: contents;
+	}
+
+	.message-area .location-area{
+		width: 100%;
+	}
+	.message-area .message-info{
+		width: 100%;
+	}
+
+	.msg-name input , .msg-email input , .msg-sub input{
+		width: 280px;
+	}
+
+	.msg-message{
+		width: 280px;
+	}
+}
+
+@media (max-width: 460px){
+
+	.header-body-text h2{
+		font-size: 56px;
+	}
+
+	.header-area{
+		height: 600px;
+	}
+
+	.review-text-1{
+		width: 315px;
+		height: 235px;
+		margin: 20px ;
+	}
+	.review-text-1 h4{
+		font-size: 27px;
+	}
+	.review-text-1 p{
+		font-size: 14px;
+	}
+
+	.review-text-2{
+		width: 315px;
+		height: 325px;
+		margin-top: 10px;
+		margin-bottom:10px;
+		margin-left: 20px;
+	}
+	.review-text-2 h4{
+		font-size: 27px;
+	}
+	.review-text-2 p{
+		font-size: 14px;
+	}
+
+	.sub-email .sub-e-input input{
+		width: 240px;
+	}
+	.sub-e-btn{
+		left: 70%;
+	}
+	.sub-e-btn button{
+		width: 100px;
+	}
+
+
+
+
+}
+@media (max-width: 360px){
+	.review-text-1{
+		margin-left: 10px;
+	}
+	.review-text-2{
+		margin-left: 10px;
+	}
+
+	.subscribe-area{
+		height: 60vh;
+	}
+
+
+	.msg-name input , .msg-email input , .msg-sub input{
+		width: 230px;
+	}
+
+	.msg-message{
+		width: 230px;
+	}
+}
